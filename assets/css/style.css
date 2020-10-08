@@ -21,6 +21,10 @@ body {
   max-height: 100%;
 }
 
+#header-logo {
+  background-image: url(/assets/img/w1-long-white-logo.png);
+}
+
 #home-main {
   background-image: url(/assets/video/webfront-mobile-fallback-img.jpg);
   height: 90vh;
