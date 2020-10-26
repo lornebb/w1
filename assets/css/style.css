@@ -6,6 +6,11 @@ body {
   color: #cccccc;
 }
 
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 #logo-container {
   height: 1.5vh;
 }
@@ -43,7 +48,7 @@ body {
 /* -------------------- Footer styling */
 
 #footer {
-  background-color: #eaeaea;
+  /* background-color: #eaeaea; */
   color: #242424;
 }
 
